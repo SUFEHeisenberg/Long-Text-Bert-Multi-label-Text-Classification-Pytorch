@@ -1,4 +1,4 @@
-# Long-Text-Bert-Chinese-Text-Classification-Pytorch
+# Long-Text-Bert-Multi-label-Text-Classification-Pytorch
 基于Pytorch预训练模型上的中文长文本多标签分类。
 
 [BERT](https://github.com/google-research/bert), [ERNIE](https://github.com/PaddlePaddle/ERNIE/tree/repro), [RoBERTa](https://github.com/ymcui/Chinese-BERT-wwm),[RBT3](https://github.com/ymcui/Chinese-BERT-wwm), [RBTL3](https://github.com/ymcui/Chinese-BERT-wwm), [NEZHA](https://github.com/huawei-noah/Pretrained-Language-Model), [ZEN](https://github.com/sinovation/ZEN)皆可。可自行下载pytroch版本模型。
